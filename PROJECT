@@ -1,3 +1,7 @@
 domain: github.seven
 repo: github.com/seven-yu/kubebuilder-demo
+resources:
+- group: seven.app
+  kind: App
+  version: v1
 version: "2"
