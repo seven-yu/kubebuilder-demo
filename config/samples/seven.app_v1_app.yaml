@@ -1,0 +1,7 @@
+apiVersion: seven.app.github.seven/v1
+kind: App
+metadata:
+  name: app-sample
+spec:
+  # Add fields here
+  foo: bar
